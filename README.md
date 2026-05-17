@@ -106,24 +106,6 @@
 
 
 
-
-
-
-<!-- Stats Words -->
-![Metrics](github-metrics.svg)
-
-
-
-
-
-<!-- Stats Card -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreCaspian&show_icons=true&theme=radical)
-
-
-
-
-
-
 <!-- 3D Contribution -->
 ![GitHub 3D Contribution](https://raw.githubusercontent.com/BreCaspian/BreCaspian/main/profile-3d-contrib/profile-night-rainbow.svg)
 
