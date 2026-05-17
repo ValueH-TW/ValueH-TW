@@ -89,7 +89,7 @@
 
 
 <!-- Motto -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=用心传递技术。&author=ValueH-TW"  />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=山高路远，看世界，也找自己。&author=ValueH-TW"  />
 
 
 
